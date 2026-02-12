@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit
+surprise
+openpyxl  # For reading Excel files
+jupyter
