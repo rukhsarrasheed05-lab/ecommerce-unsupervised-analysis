@@ -6,3 +6,7 @@ streamlit
 surprise
 openpyxl  # For reading Excel files
 jupyter
+streamlit==1.26.0
+pandas>=2.0.0
+numpy
+scikit-learn
